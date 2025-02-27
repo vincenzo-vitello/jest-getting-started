@@ -8,7 +8,8 @@
     "build": "webpack --mode production",
     "lint": "eslint src/",
     "lint:fix": "eslint src/ --fix",
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch"
   },
   "keywords": [],
   "author": "Vincenzo Vitello",

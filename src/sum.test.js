@@ -1,7 +1,6 @@
 /* eslint-disable no-undef */
 import sum from './sum';
 
-// eslint-disable-next-line no-undef
 test('makes 1 + 1', () => {
   expect(sum(1, 1)).toBe(2);
 });
